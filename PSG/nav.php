@@ -10,6 +10,7 @@ session_start();
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PSG&copy;</title>
+
     <!-- Stijlen toevoegen -->
     <link rel="stylesheet" href="../style/style.css">
     <link rel="stylesheet" href="../style/styles.css">
@@ -35,7 +36,7 @@ session_start();
             <li><a href="#">Social Responsibility</a></li>
             <li><a href="#">Different Sports</a></li>
             <li><a href="#">Matches</a></li>
-            <li><a href="#">Fursan Al-Alami</a></li>
+            <li><a href="#">Vragenlijst</a></li>
             <li><a href="">Contact Us</a></li>
         </ul>
     </nav>
